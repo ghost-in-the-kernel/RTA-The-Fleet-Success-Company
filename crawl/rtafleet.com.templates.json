@@ -1,0 +1,5334 @@
+{
+  "tool": "suite-builder",
+  "kind": "templates",
+  "version": 2,
+  "startUrl": "https://rtafleet.com/",
+  "origin": "https://rtafleet.com",
+  "pagesRead": 90,
+  "menu": [
+    {
+      "to": "https://rtafleet.com/solutions",
+      "href": "https://rtafleet.com/solutions",
+      "text": "Solutions",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "solutions"
+    },
+    {
+      "to": "https://rtafleet.com/solutions/ron360",
+      "href": "https://rtafleet.com/solutions/ron360",
+      "text": "Ron360 AI",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "solution"
+    },
+    {
+      "to": "https://rtafleet.com/solutions/fleet-cost-management",
+      "href": "https://rtafleet.com/solutions/fleet-cost-management",
+      "text": "Budget & Cost Management",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "solution"
+    },
+    {
+      "to": "https://rtafleet.com/solutions/asset-equipment-tools-management",
+      "href": "https://rtafleet.com/solutions/asset-equipment-tools-management",
+      "text": "Asset, Equipment, & Tools",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "solution"
+    },
+    {
+      "to": "https://rtafleet.com/solutions/fleet-maintenance-and-repair",
+      "href": "https://rtafleet.com/solutions/fleet-maintenance-and-repair",
+      "text": "Maintenance & Repair",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "solution"
+    },
+    {
+      "to": "https://rtafleet.com/solutions/driver-technician-inspections",
+      "href": "https://rtafleet.com/solutions/driver-technician-inspections",
+      "text": "Inspections",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "solution"
+    },
+    {
+      "to": "https://rtafleet.com/solutions/service-requests",
+      "href": "https://rtafleet.com/solutions/service-requests",
+      "text": "Service Requests",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "solution"
+    },
+    {
+      "to": "https://rtafleet.com/solutions/employee-stakeholder-satisfaction",
+      "href": "https://rtafleet.com/solutions/employee-stakeholder-satisfaction",
+      "text": "Satisfaction Surveys",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "solution"
+    },
+    {
+      "to": "https://rtafleet.com/solutions/parts-inventory-management",
+      "href": "https://rtafleet.com/solutions/parts-inventory-management",
+      "text": "Parts & Inventory",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/solutions/motor-pool-management",
+      "href": "https://rtafleet.com/solutions/motor-pool-management",
+      "text": "Motor Pool Management",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/solutions/fleet-fuel-management",
+      "href": "https://rtafleet.com/solutions/fleet-fuel-management",
+      "text": "Fuel Management",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/solutions/accident-management",
+      "href": "https://rtafleet.com/solutions/accident-management",
+      "text": "Accident Management",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/solutions/dashboards-reports",
+      "href": "https://rtafleet.com/solutions/dashboards-reports",
+      "text": "Dashboards & Scorecard",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/solutions/consulting",
+      "href": "https://rtafleet.com/solutions/consulting",
+      "text": "Fleet Consulting",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/solutions/training",
+      "href": "https://rtafleet.com/solutions/training",
+      "text": "Training",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/industries",
+      "href": "https://rtafleet.com/industries",
+      "text": "Industries",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "industries"
+    },
+    {
+      "to": "https://rtafleet.com/industries/government-fleet-software",
+      "href": "https://rtafleet.com/industries/government-fleet-software",
+      "text": "Government",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "faqpage"
+    },
+    {
+      "to": "https://rtafleet.com/industries/food-and-beverage-fleet-management-software",
+      "href": "https://rtafleet.com/industries/food-and-beverage-fleet-management-software",
+      "text": "Food & Beverage",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "faqpage"
+    },
+    {
+      "to": "https://rtafleet.com/industries/higher-education-fleet-management-software",
+      "href": "https://rtafleet.com/industries/higher-education-fleet-management-software",
+      "text": "Higher Education",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "faqpage"
+    },
+    {
+      "to": "https://rtafleet.com/industries/k-12-school-bus-fleet-software",
+      "href": "https://rtafleet.com/industries/k-12-school-bus-fleet-software",
+      "text": "K-12 Education",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/industries/transit-fleet-maintenance-software",
+      "href": "https://rtafleet.com/industries/transit-fleet-maintenance-software",
+      "text": "Passenger Transit",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/about",
+      "href": "https://rtafleet.com/about",
+      "text": "About",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "about"
+    },
+    {
+      "to": "https://rtafleet.com/podcast",
+      "href": "https://rtafleet.com/podcast",
+      "text": "Podcast",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "podcast-page"
+    },
+    {
+      "to": "https://rtafleet.com/resources/fleet-success-playbook",
+      "href": "https://rtafleet.com/resources/fleet-success-playbook",
+      "text": "Fleet Success Playbook",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "resource"
+    },
+    {
+      "to": "https://rtafleet.com/connect",
+      "href": "https://rtafleet.com/connect",
+      "text": "RTA Connect Conference",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "connect27"
+    },
+    {
+      "to": "https://rtafleet.com/resources",
+      "href": "https://rtafleet.com/resources",
+      "text": "Resources",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "resources"
+    },
+    {
+      "to": "https://rtafleet.com/events",
+      "href": "https://rtafleet.com/events",
+      "text": "Events",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "events"
+    },
+    {
+      "to": "https://rtafleet.com/purchasing-contracts",
+      "href": "https://rtafleet.com/purchasing-contracts",
+      "text": "Purchasing Contracts",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "purchasing-contracts"
+    },
+    {
+      "to": "https://rtafleet.com/press",
+      "href": "https://rtafleet.com/press",
+      "text": "Press",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "blog"
+    },
+    {
+      "to": "https://rtafleet.com/careers",
+      "href": "https://rtafleet.com/careers",
+      "text": "Careers",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "careers"
+    },
+    {
+      "to": "https://rtafleet.com/about/contact-us",
+      "href": "https://rtafleet.com/about/contact-us",
+      "text": "Contact Us",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "about-contact-us"
+    },
+    {
+      "to": "https://rtafleet.com/solutions/integrations",
+      "href": "https://rtafleet.com/solutions/integrations",
+      "text": "Integrations",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "solution"
+    },
+    {
+      "to": "https://rtafleet.com/pricing",
+      "href": "https://rtafleet.com/pricing",
+      "text": "Pricing",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "pricing"
+    },
+    {
+      "to": "https://rtafleet.com/support",
+      "href": "https://rtafleet.com/support",
+      "text": "Support ›",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "support"
+    },
+    {
+      "to": "https://rtafleet.com/book-a-demo",
+      "href": "https://rtafleet.com/book-a-demo",
+      "text": "Book a Demo ›",
+      "region": "header",
+      "seenOn": "https://rtafleet.com/",
+      "template": "book-ademo"
+    },
+    {
+      "to": "https://rtafleet.com/reviews",
+      "href": "https://rtafleet.com/reviews",
+      "text": "Reviews",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": "reviews"
+    },
+    {
+      "to": "https://rtafleet.com/resources/fleet-success-stories",
+      "href": "https://rtafleet.com/resources/fleet-success-stories",
+      "text": "Fleet Success Stories",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": "resource"
+    },
+    {
+      "to": "https://rtafleet.com/templates",
+      "href": "https://rtafleet.com/templates",
+      "text": "Free Tools & Templates",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": "templates"
+    },
+    {
+      "to": "https://rtafleet.com/blog",
+      "href": "https://rtafleet.com/blog",
+      "text": "Blog",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/faq",
+      "href": "https://rtafleet.com/faq",
+      "text": "FAQs",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/compare",
+      "href": "https://rtafleet.com/compare",
+      "text": "Compare RTA Fleet360",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks",
+      "href": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks",
+      "text": "AssetWorks",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": "software-application"
+    },
+    {
+      "to": "https://rtafleet.com/compare/rta-fleet360-vs-fleetio",
+      "href": "https://rtafleet.com/compare/rta-fleet360-vs-fleetio",
+      "text": "Fleetio",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": "software-application"
+    },
+    {
+      "to": "https://rtafleet.com/compare/rta-fleet360-vs-faster",
+      "href": "https://rtafleet.com/compare/rta-fleet360-vs-faster",
+      "text": "Faster",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": "software-application"
+    },
+    {
+      "to": "https://rtafleet.com/become-a-partner",
+      "href": "https://rtafleet.com/become-a-partner",
+      "text": "Become a Partner",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/schedule-training",
+      "href": "https://rtafleet.com/schedule-training",
+      "text": "Sign Up for Training",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/terms-of-service-rta-saas",
+      "href": "https://rtafleet.com/terms-of-service-rta-saas",
+      "text": "Terms of Service",
+      "region": "footer",
+      "newTab": true,
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/terms-of-use",
+      "href": "https://rtafleet.com/terms-of-use",
+      "text": "Terms of Use",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/privacy-policy",
+      "href": "https://rtafleet.com/privacy-policy",
+      "text": "Privacy Policy",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": null
+    },
+    {
+      "to": "https://rtafleet.com/accessibility",
+      "href": "https://rtafleet.com/accessibility",
+      "text": "Accessibility",
+      "region": "footer",
+      "seenOn": "https://rtafleet.com/",
+      "template": "accessibility"
+    },
+    {
+      "to": "https://rtafleet.com/",
+      "href": "https://rtafleet.com/",
+      "text": "RTA",
+      "region": "header",
+      "seenOn": "https://rtafleet.com/accessibility",
+      "template": "home"
+    }
+  ],
+  "templates": [
+    {
+      "id": "home",
+      "name": "HomePage",
+      "urlPatterns": [
+        "/"
+      ],
+      "pages": [
+        "https://rtafleet.com/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "RTA Fleet Management Software | RTA Fleet",
+      "sharedHeadings": [
+        "Fleet Management Software Built by Fleet People",
+        "Manage your fleet with confidence",
+        "THE RTA FLEET DIFFERENCE",
+        "Because Even the BestShops Need Backup",
+        "450+ YEARS OF FLEET EXPERIENCE",
+        "Get Guidance From Former Fleet Managers",
+        "Tired of Battling theChaos?",
+        "RON360",
+        "Stop Navigating. Start Asking.",
+        "DASHBOARDS & REPORTING",
+        "Know What's Happening(and have the data to back it up)",
+        "ASSET, EQUIPMENT & TOOL MANAGEMENT",
+        "Track Performance and Cost History",
+        "PARTS & INVENTORY MANAGEMENT",
+        "Never Wait For Your Parts Again",
+        "FLEET MANAGEMENT EDUCATION",
+        "Level Up Your Fleet Management",
+        "The Fleet Success Playbook",
+        "The Fleet Success Show Podcast",
+        "RTA Connect Conference",
+        "RTA FleetLinkedin",
+        "Build the Fleet You're Proud to Lead",
+        "CUSTOMER SUPPORT",
+        "A Fleet Support System When You Need It",
+        "SPECIALIZED TRAINING",
+        "Training That Meets Your Needs",
+        "We Make Purchasing Easy",
+        "We think you'll ❤ RTA Fleet,but don't take our word for it",
+        "RTA Fleet360 Is the Best Fitfor Fleets That Are:"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Previous quotes"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 5"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 6"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 7"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 7']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 8"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 8']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 9"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 9']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 10"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 10']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 11"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 11']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 12"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 12']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 13"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 13']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 14"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 14']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 15"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 15']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next quotes"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/"
+        }
+      ],
+      "why": {
+        "rule": "start-page",
+        "says": "the start page: always a page type of its own, since every test starts there"
+      }
+    },
+    {
+      "id": "accessibility",
+      "name": "AccessibilityPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/accessibility"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "RTA - Accessibility Statement",
+      "sharedHeadings": [
+        "Accessibility"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /templates/sla, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "solution",
+      "name": "SolutionPage",
+      "urlPatterns": [
+        "/solutions/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/solutions/integrations",
+        "https://rtafleet.com/solutions/ron360",
+        "https://rtafleet.com/solutions/fleet-cost-management",
+        "https://rtafleet.com/solutions/asset-equipment-tools-management",
+        "https://rtafleet.com/solutions/fleet-maintenance-and-repair",
+        "https://rtafleet.com/solutions/driver-technician-inspections",
+        "https://rtafleet.com/solutions/service-requests",
+        "https://rtafleet.com/solutions/employee-stakeholder-satisfaction"
+      ],
+      "repeated": true,
+      "knownUrls": 12,
+      "titlePattern": null,
+      "sharedHeadings": [],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Previous quotes"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous quotes']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 1']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 2']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 3']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 4']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 5"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 5']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 6"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 6']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 7"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 7']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 8"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 8']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 9"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 9']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 10"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 10']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 11"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 11']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 12"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 12']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 13"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 13']",
+          "stability": "Strong",
+          "pages": 6,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 14"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 14']",
+          "stability": "Strong",
+          "pages": 6,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 15"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 15']",
+          "stability": "Strong",
+          "pages": 6,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next quotes"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next quotes']",
+          "stability": "Strong",
+          "pages": 7,
+          "seenOn": "https://rtafleet.com/solutions/ron360"
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 8 pages read look alike (layout 99% the same, headings 4%) and share the address pattern /solutions/*; joined by: a listing: nearly the same layout, in one folder pattern (27 comparisons); the layouts agree, with some headings shared (1 comparison)",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 27
+          },
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "solutions",
+      "name": "SolutionsPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/solutions"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Fleet Maintenance & Management System | RTA Fleet",
+      "sharedHeadings": [
+        "Fleet Maintenance & Management System",
+        "Major Benefits",
+        "What Makes Fleet360® Stand Out as a Fleet Maintenance & Management System",
+        "Asset, Equipment & Tools Management",
+        "Budget & Cost Control for Fleet Maintenance",
+        "Maintenance & Repair",
+        "Fleet Reporting & Analytics",
+        "We think you'll ❤ RTA Fleet,but don't take our word for it",
+        "Service Request Management System",
+        "Driver & Technician Inspections",
+        "Fuel Management",
+        "Motor Pool Management",
+        "Parts & Inventory Management",
+        "Accident Management",
+        "Employee & Stakeholder Satisfaction",
+        "Mobile Fleet Management App"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Previous quotes"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 5"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 6"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 7"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 7']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 8"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 8']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 9"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 9']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 10"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 10']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 11"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 11']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 12"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 12']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 13"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 13']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 14"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 14']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 15"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 15']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next quotes"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/solutions"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /solutions/driver-technician-inspections, shares 100% of its layout and 9% of its headings)"
+      }
+    },
+    {
+      "id": "industries",
+      "name": "IndustriesPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/industries"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Fleet Management Software by Industry | RTA Fleet",
+      "sharedHeadings": [
+        "Built for Fleet People",
+        "Serving Public & Private Fleets Across North America",
+        "Government",
+        "Food & Beverage Delivery",
+        "Higher Education",
+        "K-12 Education",
+        "Passenger Transit",
+        "Built for Your Fleet",
+        "Take Control of Your Fleet",
+        "Powering 1,200+ Fleets",
+        "45 +",
+        "1200 +",
+        "15 K",
+        "4.8"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /about, shares 98% of its layout and 13% of its headings)"
+      }
+    },
+    {
+      "id": "about",
+      "name": "AboutPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/about"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "About Us | RTA Fleet",
+      "sharedHeadings": [
+        "Helping Fleets Reach Peak Performance",
+        "Build the Fleet You're Proud to Lead",
+        "RTA Fleet Is a Great Place to Work",
+        "45+ Years Helping Fleets Succeed",
+        "Pioneered Fleet Maintenance Excellence",
+        "Meet Our Leadership Team",
+        "Josh Turley",
+        "Sam Blackham",
+        "James Charles",
+        "Ryan Driscoll",
+        "Marc Canton",
+        "Jacob Turley",
+        "Leading North America's Fleets to Success",
+        "45 +",
+        "1200 +",
+        "15 K",
+        "4.8",
+        "We Wrote the Book on Fleet Success (Literally)",
+        "Building Solutions with Industry Leaders",
+        "Get Fleet Success Insights & RTA News",
+        "First Name",
+        "Email*"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "First Name",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Email*",
+            "email"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='email']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Subscribe"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_9269a39f-e302-4427-b119-3be4ca59c370_2160']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about"
+        }
+      ],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /connect27, /about/contact-us, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "faqpage",
+      "name": "FaqpagePage",
+      "urlPatterns": [
+        "/industries/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/industries/government-fleet-software",
+        "https://rtafleet.com/industries/food-and-beverage-fleet-management-software",
+        "https://rtafleet.com/industries/higher-education-fleet-management-software"
+      ],
+      "repeated": true,
+      "knownUrls": 3,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Seamless Data Integration with Existing Systems",
+        "FAQs"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "template",
+          "count": 8,
+          "example": {
+            "from": "https://rtafleet.com/industries/government-fleet-software",
+            "to": "https://rtafleet.com/templates/proposal-to-purchase",
+            "href": "https://rtafleet.com/templates/proposal-to-purchase",
+            "text": ""
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Previous quotes"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 5"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 6"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 7"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 7']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 8"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 8']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 9"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 9']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next quotes"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Previous templates"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous templates']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to set 1 of 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to set 1 of 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to set 2 of 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to set 2 of 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to set 3 of 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to set 3 of 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to set 4 of 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to set 4 of 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next templates"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next templates']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/industries/government-fleet-software"
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 3 pages read look alike (layout 100% the same, headings 15%) and share the address pattern /industries/*; joined by: a listing: nearly the same layout, in one folder pattern (2 comparisons); the layouts agree, with some headings shared (1 comparison)",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 2
+          },
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "template",
+      "name": "TemplatePage",
+      "urlPatterns": [
+        "/templates/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/templates/disaster-plan",
+        "https://rtafleet.com/templates/fleet-report",
+        "https://rtafleet.com/templates/sop",
+        "https://rtafleet.com/templates/proposal-to-purchase",
+        "https://rtafleet.com/templates/sla"
+      ],
+      "repeated": true,
+      "knownUrls": 10,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Work Email*"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "email field",
+          "words": [
+            "Work Email*",
+            "email"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='email']",
+          "stability": "Strong",
+          "pages": 5,
+          "seenOn": "https://rtafleet.com/templates/disaster-plan"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Download"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//main[@id='main-content']//form[div/label[normalize-space()='Work Email*']]/div[7]/div[2]/input",
+          "stability": "OK",
+          "pages": 5,
+          "seenOn": "https://rtafleet.com/templates/disaster-plan"
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 5 pages read look alike (layout 100% the same, headings 24%) and share the address pattern /templates/*; joined by: the layouts agree, with some headings shared (9 comparisons); the headings agree, with some layout shared (1 comparison)",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 9
+          },
+          {
+            "rule": "headings-agree",
+            "pairs": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "podcast-page",
+      "name": "PodcastPagePage",
+      "urlPatterns": [
+        "/podcast/page/*",
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/podcast",
+        "https://rtafleet.com/podcast/page/5",
+        "https://rtafleet.com/podcast/page/4",
+        "https://rtafleet.com/podcast/page/3"
+      ],
+      "repeated": true,
+      "knownUrls": 7,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "The Fleet Success Show"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "speaker-bios",
+          "count": 31,
+          "example": {
+            "from": "https://rtafleet.com/podcast",
+            "to": "https://rtafleet.com/podcast/episode-234-ai-for-fleet-leaders-stop-waiting-start-moving",
+            "href": "https://rtafleet.com/podcast/episode-234-ai-for-fleet-leaders-stop-waiting-start-moving",
+            "text": "Episode 234 AI for Fleet Leaders: Stop Waiting, Start Moving Marc Canton and Jo…"
+          }
+        },
+        {
+          "template": "profile",
+          "count": 12,
+          "example": {
+            "from": "https://rtafleet.com/podcast",
+            "to": "https://rtafleet.com/fleet-experts/marc-canton",
+            "href": "https://rtafleet.com/fleet-experts/marc-canton",
+            "text": "Marc Canton Host · VP of Fleet Strategy, RTA Fleet"
+          }
+        },
+        {
+          "template": "podcast-page",
+          "count": 9,
+          "example": {
+            "from": "https://rtafleet.com/podcast",
+            "to": "https://rtafleet.com/podcast/page/3",
+            "href": "https://rtafleet.com/podcast/page/3",
+            "text": "3"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "expander",
+          "words": [
+            "What is The Fleet Success Show?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='What is The Fleet Success Show?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Who hosts The Fleet Success Show?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Who hosts The Fleet Success Show?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Who is the podcast for?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Who is the podcast for?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What topics does the show cover?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='What topics does the show cover?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How often are new episodes released, and how long are they?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How often are new episodes released, and')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Where can I listen to The Fleet Success Show?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Where can I listen to The Fleet Success')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is there a video version of the podcast?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Is there a video version of the podcast?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can I listen to older episodes?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Can I listen to older episodes?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is The Fleet Success Show the same as “the fleet podcast”?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Is The Fleet Success Show the same as')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How do I suggest a topic or become a guest?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How do I suggest a topic or become a')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is the podcast free?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Is the podcast free?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What is The Fleet Success Playbook mentioned on the show?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What is The Fleet Success Playbook')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Who produces The Fleet Success Show?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Who produces The Fleet Success Show?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/podcast"
+        }
+      ],
+      "why": {
+        "rule": "family-by-evidence",
+        "says": "its 4 pages read look alike (layout 100% the same, headings 12%), and every page shows the heading \"The Fleet Success Show\"; joined by: a listing: nearly the same layout, in one folder pattern (2 comparisons); the layouts agree, with some headings shared (1 comparison); 3 comparisons held by no rule",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 2
+          },
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 1
+          }
+        ],
+        "apart": 3
+      }
+    },
+    {
+      "id": "speaker-bios",
+      "name": "SpeakerBiosPage",
+      "urlPatterns": [
+        "/*/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/podcast/episode-243-every-work-order-should-end-with-an-inspection",
+        "https://rtafleet.com/podcast/episode-250-what-makes-a-great-fleet-inside-the-fleet-success-awards",
+        "https://rtafleet.com/podcast/episode-253-department-of-one-building-a-centralized-fleet-from-scratch",
+        "https://rtafleet.com/podcast/episode-206-fleet-leaders-reveal-the-software-theyd-never-use-again",
+        "https://rtafleet.com/podcast/episode-249-ai-change-the-new-fleet-manager-how-to-lead-whats-next",
+        "https://rtafleet.com/podcast/episode-212-why-fleet-education-is-booming-and-what-it-means-for-the-future",
+        "https://rtafleet.com/podcast/episode-199-the-truth-about-fleet-tech-shortages-that-no-one-wants-to-admit",
+        "https://rtafleet.com/podcast/episode-224-fleet-fraud-is-getting-smarter-heres-how-fleets-fight-back",
+        "https://rtafleet.com/podcast/episode-222-fleet-management-101-nobody-teaches-fleet-management",
+        "https://rtafleet.com/podcast/episode-215-fleet-management-101-how-to-become-a-great-fleet-supervisor",
+        "https://rtafleet.com/podcast/episode-202-fleet-management-101-the-critical-metrics-that-separate-good-fleets-from-great-ones",
+        "https://rtafleet.com/podcast/episode-227-the-hidden-costs-killing-fleet-operations-its-not-what-you-think",
+        "https://rtafleet.com/podcast/episode-246-the-utilization-debate-should-you-move-vehicles-between-drivers",
+        "https://rtafleet.com/podcast/episode-209-the-fleet-success-mindset-building-stronger-teams-systems-and-results",
+        "https://rtafleet.com/podcast/episode-196-how-to-go-from-turning-wrenches-to-calling-shots-in-fleet",
+        "https://rtafleet.com/podcast/episode-220-motor-pools-are-back-right-size-your-fleet-without-breaking-operations",
+        "https://rtafleet.com/podcast/episode-234-ai-for-fleet-leaders-stop-waiting-start-moving",
+        "https://rtafleet.com/podcast/episode-216-the-rise-of-the-tech-savvy-fleet-manager",
+        "https://rtafleet.com/podcast/episode-204-workload-workforce-workplace-rightsizing-is-more-than-just-for-fleet-assets",
+        "https://rtafleet.com/podcast/episode-228-fleet-management-is-25-years-behind-but-ai-may-change-everything",
+        "https://rtafleet.com/podcast/episode-247-fleet-management-101-where-fleet-belongs-in-your-organization",
+        "https://rtafleet.com/podcast/episode-210-how-to-win-nafas-100-best-fleets-insider-advice-from-a-longtime-judge",
+        "https://rtafleet.com/podcast/episode-198-what-fleet-managers-get-wrong-about-replacement-rightsizing-staffing",
+        "https://rtafleet.com/podcast/episode-221-the-state-of-fleet-management-education-ai-and-the-technician-crisis-with-nafas-ceo",
+        "https://rtafleet.com/podcast/episode-251-are-alternative-fuel-mandates-failing-public-fleets"
+      ],
+      "repeated": true,
+      "knownUrls": 49,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Speaker Bios"
+      ],
+      "inMenu": false,
+      "linksTo": [
+        {
+          "template": "template",
+          "count": 1,
+          "example": {
+            "from": "https://rtafleet.com/podcast/episode-243-every-work-order-should-end-with-an-inspection",
+            "to": "https://rtafleet.com/templates/sla",
+            "href": "/templates/sla",
+            "text": "service-level agreements (SLAs)"
+          }
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 25 pages read look alike (layout 90% the same, headings 29%) and share the address pattern /*/*; joined by: the layouts agree, with some headings shared (210 comparisons); the headings agree, with some layout shared (76 comparisons); a listing: nearly the same layout, in one folder pattern (14 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 210
+          },
+          {
+            "rule": "headings-agree",
+            "pairs": 76
+          },
+          {
+            "rule": "listing-folder",
+            "pairs": 14
+          }
+        ]
+      }
+    },
+    {
+      "id": "connect27",
+      "name": "Connect27Page",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/connect27"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "RTA Connect 2027 | Fleet Management Conference",
+      "sharedHeadings": [],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "email field",
+          "words": [
+            "Email*",
+            "email"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='email']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/connect27"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Get Alert"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//main[@id='main-content']//form[div/label[normalize-space()='utm_medium']]/div[7]/div[2]/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/connect27"
+        }
+      ],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /about, /about/contact-us, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "resources",
+      "name": "ResourcesPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/resources"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "RTA Fleet Tools, Templates, and Guides",
+      "sharedHeadings": [
+        "Resources",
+        "Templates",
+        "Success Stories",
+        "Webinars",
+        "Playbook",
+        "Podcast",
+        "Fleet Success Stories"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /accessibility, shares 94% of its layout and 14% of its headings)"
+      }
+    },
+    {
+      "id": "software-application",
+      "name": "SoftwareApplicationPage",
+      "urlPatterns": [
+        "/compare/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/compare/rta-fleet360-vs-assetworks",
+        "https://rtafleet.com/compare/rta-fleet360-vs-fleetio",
+        "https://rtafleet.com/compare/rta-fleet360-vs-faster"
+      ],
+      "repeated": true,
+      "knownUrls": 3,
+      "titlePattern": "{name} Fleet vs. {name}: FMIS Comparison | {name} Alternative",
+      "sharedHeadings": [
+        "The Gap a Feature Table Can’t Show",
+        "Where Each Software Wins",
+        "Switching Systems Is A Project.Bring Fleet People",
+        "Led by Fleet Professionals",
+        "A Product That Keeps Shipping",
+        "The Basics",
+        "Pricing & Procurement",
+        "Product, Reporting & AI",
+        "Switching & Implementation"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "resource",
+          "count": 1,
+          "example": {
+            "from": "https://rtafleet.com/compare/rta-fleet360-vs-fleetio",
+            "to": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator",
+            "href": "/resources/rta-fleet360-vs-fleetio-calculator",
+            "text": "RTA Fleet360 vs Fleetio Calculator",
+            "hidden": true,
+            "newTab": true
+          }
+        },
+        {
+          "template": "blog-post",
+          "count": 1,
+          "example": {
+            "from": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks",
+            "to": "https://rtafleet.com/press/rta-fleet-launches-ron360-bringing-conversational-ai-directly-into-fleet-management-workflows",
+            "href": "https://rtafleet.com/press/rta-fleet-launches-ron360-bringing-conversational-ai-directly-into-fleet-management-workflows",
+            "text": "RTA — Ron360 general availability announcement",
+            "hidden": true,
+            "newTab": true
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Previous quotes"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous quotes']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 1']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 2']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 3']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 4']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 5"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 5']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 6"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 6']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 7"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 7']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 8"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 8']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 9"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 9']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 10"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 10']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 11"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 11']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 12"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 12']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next quotes"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next quotes']",
+          "stability": "Strong",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Sources & records cited on this page (22)"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Sources & records cited on this page')]",
+          "stability": "OK",
+          "pages": 3,
+          "seenOn": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks"
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 3 pages read look alike (layout 100% the same, headings 41%) and share the address pattern /compare/*; joined by: the layouts agree, with some headings shared (2 comparisons); the headings agree, with some layout shared (1 comparison)",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 2
+          },
+          {
+            "rule": "headings-agree",
+            "pairs": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "resource",
+      "name": "ResourcePage",
+      "urlPatterns": [
+        "/resources/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/resources/fleet-success-playbook",
+        "https://rtafleet.com/resources/fleet-success-stories",
+        "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+      ],
+      "repeated": true,
+      "knownUrls": 4,
+      "titlePattern": null,
+      "sharedHeadings": [],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "resources-case-studies",
+          "count": 5,
+          "example": {
+            "from": "https://rtafleet.com/resources/fleet-success-stories",
+            "to": "https://rtafleet.com/resources/case-studies/az-dept-of-corrections",
+            "href": "https://rtafleet.com/resources/case-studies/az-dept-of-corrections",
+            "text": "AZ Dept of Corrections"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Go to last slide"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to last slide']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next slide"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next slide']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause autoplay"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Pause autoplay']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Go to page 1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to page 1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Go to page 2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to page 2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Go to page 3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to page 3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Go to page 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to page 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Go to page 5"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to page 5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Go to page 6"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to page 6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "First name*",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Last name*",
+            "lastname"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='lastname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Business email*",
+            "email"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='email']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "tel field",
+          "words": [
+            "Phone number*",
+            "phone"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='phone']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Job title*",
+            "jobtitle"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='jobtitle']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Company name*",
+            "company"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='company']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "number field",
+          "words": [
+            "Fleet size*",
+            "fleet_size__exact_number_"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='fleet_size__exact_number_']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Street address*",
+            "address"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='address']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "City*",
+            "city"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='city']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "State/Region*",
+            "state"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='state']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Postal code*",
+            "zip"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='zip']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Get My Free Copy"
+          ],
+          "region": "main",
+          "form": "Where are we sending your book?",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_499d761e-ad18-4746-9cc9-7138a93871b4_1740']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/fleet-success-playbook"
+        },
+        {
+          "kind": "range field",
+          "words": [],
+          "region": "main",
+          "value": "250",
+          "xpath": "//input[@id='assetSlider']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "dropdown",
+          "words": [],
+          "region": "main",
+          "options": [
+            "Pro — $6/asset/mo · Core fleet management",
+            "Advanced — $8/asset/mo · Most popular",
+            "Enterprise — $11/asset/mo · Full platform + BI"
+          ],
+          "xpath": "//select[@id='rtaTier']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "dropdown",
+          "words": [],
+          "region": "main",
+          "options": [
+            "Agriculture (Farming)",
+            "Automotive",
+            "Construction",
+            "Emergency Services",
+            "Field Services"
+          ],
+          "xpath": "//select[@id='fleetType']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "local_shipping Assets, Equipment, & Tools expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'local_shipping Assets, Equipment, &')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Inspections / DVIR"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Inspections / DVIR']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Lifecycle & Replacement Planning"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Lifecycle & Replacement Planning']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Motor Pool Management"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Motor Pool Management']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Capital Budgeting & Replacement Forecasting"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Capital Budgeting & Replacement')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Parent/Child Asset Relationships"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Parent/Child Asset Relationships']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "auto_awesome Automations & AI expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'auto_awesome Automations & AI')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Sublet Invoice Capture (AI)"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Sublet Invoice Capture (AI)']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Ron360 Embedded Chat (AI)"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Ron360 Embedded Chat (AI)']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "car_repair Maintenance & Repair 2 selected expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'car_repair Maintenance & Repair 2')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Preventive Maintenance"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Preventive Maintenance']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Work Orders"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Work Orders']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "VMRS Coding"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='VMRS Coding']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "NHTSA Recall Tracking"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='NHTSA Recall Tracking']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "package_2 Parts & Inventory 1 selected expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'package_2 Parts & Inventory 1 selected')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Parts & Inventory Management"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Parts & Inventory Management']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Warranty Recovery"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Warranty Recovery']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "local_gas_station Fuel expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='local_gas_station Fuel expand_more']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Fuel Management"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Fuel Management']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "car_crash Accidents expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='car_crash Accidents expand_more']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Accident Management"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Accident Management']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "analytics Dashboards & Reporting expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'analytics Dashboards & Reporting')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Advanced Reporting / BI"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Advanced Reporting / BI']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "link Integrations & API expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='link Integrations & API expand_more']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Telematics Integration"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Telematics Integration']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Open API / Integrations"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Open API / Integrations']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "request_page Governance expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='request_page Governance expand_more']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Dept. Chargebacks / GL Coding"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Dept. Chargebacks / GL Coding']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "support_agent Support & Services expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'support_agent Support & Services')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Mobile App"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Mobile App']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Dedicated Fleet Success Manager"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Dedicated Fleet Success Manager']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "satellite_alt Telematics / GPS expand_more"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'satellite_alt Telematics / GPS')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Geotab"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Geotab']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Samsara"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Samsara']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Verizon Connect"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Verizon Connect']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Motive"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Motive']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator"
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 3 pages read look alike (layout 96% the same, headings 0%) and share the address pattern /resources/*; joined by: a listing: nearly the same layout, in one folder pattern (3 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "profile",
+      "name": "ProfilePage",
+      "urlPatterns": [
+        "/fleet-experts/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/fleet-experts/josh-turley",
+        "https://rtafleet.com/fleet-experts/facundo-tassara",
+        "https://rtafleet.com/fleet-experts/marc-canton"
+      ],
+      "repeated": true,
+      "knownUrls": 5,
+      "titlePattern": "{name}",
+      "sharedHeadings": [
+        "Where Our Experts Show Up",
+        "The Fleet Success Playbook",
+        "The Fleet Success Show",
+        "On the Conference Stage"
+      ],
+      "inMenu": false,
+      "linksTo": [
+        {
+          "template": "profile",
+          "count": 2,
+          "example": {
+            "from": "https://rtafleet.com/fleet-experts/josh-turley",
+            "to": "https://rtafleet.com/fleet-experts/marc-canton",
+            "href": "/fleet-experts/marc-canton",
+            "text": "Marc Canton VP of Fleet Strategy"
+          }
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 3 pages read look alike (layout 100% the same, headings 100%) and share the address pattern /fleet-experts/*; joined by: the headings agree, with some layout shared (3 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "headings-agree",
+            "pairs": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "resources-case-studies",
+      "name": "ResourcesCaseStudiesPage",
+      "urlPatterns": [
+        "/resources/case-studies/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/resources/case-studies/granger-waste",
+        "https://rtafleet.com/resources/case-studies/city-of-pittsfield",
+        "https://rtafleet.com/resources/case-studies/buckeye-valley-fire",
+        "https://rtafleet.com/resources/case-studies/lehi-city-utah",
+        "https://rtafleet.com/resources/case-studies/az-dept-of-corrections"
+      ],
+      "repeated": true,
+      "knownUrls": 10,
+      "titlePattern": null,
+      "sharedHeadings": [],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 5 pages read look alike (layout 100% the same, headings 0%) and share the address pattern /resources/case-studies/*; joined by: a listing: nearly the same layout, in one folder pattern (10 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "about-contact-us",
+      "name": "AboutContactUsPage",
+      "urlPatterns": [
+        "/about/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/about/contact-us"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Contact Us | RTA Fleet",
+      "sharedHeadings": [
+        "Get in Touch with RTA",
+        "First name*",
+        "Last name*",
+        "Job title*",
+        "Email*",
+        "Phone number*",
+        "Company name*",
+        "Fleet size*",
+        "Industry*",
+        "Tell us about your inquiry*",
+        "Contact Information",
+        "RTA Corporate Headquarters",
+        "Customer Support",
+        "Sales Team",
+        "Accounting"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "First name*",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Last name*",
+            "lastname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='lastname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Job title*",
+            "jobtitle"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='jobtitle']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Email*",
+            "email"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_4ea6848d-e9ca-4f36-a5e5-b1f67f6e6785_9658']//input[@name='email']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        },
+        {
+          "kind": "tel field",
+          "words": [
+            "Phone number*",
+            "phone"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='phone']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Company name*",
+            "company"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='company']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        },
+        {
+          "kind": "number field",
+          "words": [
+            "Fleet size*",
+            "0",
+            "fleet_size__exact_number_"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='fleet_size__exact_number_']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "Industry*",
+            "company_industry"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Agriculture (Farming)",
+            "Automotive",
+            "Construction",
+            "Emergency Services",
+            "Field Services"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='company_industry']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        },
+        {
+          "kind": "text area",
+          "words": [
+            "Tell us about your inquiry*",
+            "contact_us___inquiry"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//textarea[@name='contact_us___inquiry']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Submit"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_4ea6848d-e9ca-4f36-a5e5-b1f67f6e6785_9658']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/about/contact-us"
+        }
+      ],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /about, /connect27, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "blog-post",
+      "name": "BlogPostPage",
+      "urlPatterns": [
+        "/*/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/press/rta-fleet-launches-ron360-bringing-conversational-ai-directly-into-fleet-management-workflows",
+        "https://rtafleet.com/press/rta-fleet-launches-ai-enabled-sublet-invoice-capture-reducing-invoice-entry-time",
+        "https://rtafleet.com/press/rta-fleet-named-34-fortune-best-small-workplaces-2026-list",
+        "https://rtafleet.com/press/commonwealth-of-massachusetts-office-of-vehicle-management-chooses-rta-for-fleet-management-information-system-upgrade",
+        "https://rtafleet.com/press/winners-of-inaugural-rta-fleet-success-awards",
+        "https://rtafleet.com/press/state-of-utah-adds-rta-state-contract-fleet-management",
+        "https://rtafleet.com/press/rta-fleet360-wins-2025-fleet-management-software-of-the-year-from-autotech-breakthrough",
+        "https://rtafleet.com/press/rta-named-recipient-of-2024-top-software-tech-award-1",
+        "https://rtafleet.com/press/rta-fleet-named-no-48-on-fortune-best-workplaces-in-technology-2026-list"
+      ],
+      "repeated": true,
+      "knownUrls": 18,
+      "titlePattern": null,
+      "sharedHeadings": [],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 9 pages read look alike (layout 92% the same, headings 17%) and share the address pattern /*/*; joined by: a listing: nearly the same layout, in one folder pattern (20 comparisons); the headings agree, with some layout shared (7 comparisons); the layouts agree, with some headings shared (6 comparisons); 3 comparisons held by no rule",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 20
+          },
+          {
+            "rule": "headings-agree",
+            "pairs": 7
+          },
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 6
+          }
+        ],
+        "apart": 3
+      }
+    },
+    {
+      "id": "events",
+      "name": "EventsPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/events"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "RTA Events | Tradeshows, Webinars, & Meetups",
+      "sharedHeadings": [
+        "Events",
+        "How AI Connects the Road to the Shop",
+        "RTA Roadshow - UT",
+        "Geotab Connect 2027",
+        "Work Truck Week 2027",
+        "Motive Vision 2027",
+        "NAFA I&E 2027",
+        "APWA Washington Spring Conference 2027",
+        "APWA Mid-Atlantic WRX 2027",
+        "APWA Texas Anual Conference 2027",
+        "GFX 2027"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "event",
+          "count": 3,
+          "example": {
+            "from": "https://rtafleet.com/events",
+            "to": "https://rtafleet.com/events/work-truck-week-2027",
+            "href": "https://rtafleet.com/events/work-truck-week-2027",
+            "text": "LEARN MORE Path"
+          }
+        },
+        {
+          "template": "roadshow-ut",
+          "count": 1,
+          "example": {
+            "from": "https://rtafleet.com/events",
+            "to": "https://rtafleet.com/roadshow/ut",
+            "href": "https://rtafleet.com/roadshow/ut",
+            "text": "Register Now"
+          }
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /resources, shares 98% of its layout and 6% of its headings)"
+      }
+    },
+    {
+      "id": "event",
+      "name": "EventPage",
+      "urlPatterns": [
+        "/events/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/events/government-fleet-expo-2027",
+        "https://rtafleet.com/events/motive-vision-2027",
+        "https://rtafleet.com/events/work-truck-week-2027"
+      ],
+      "repeated": true,
+      "knownUrls": 6,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Dates",
+        "Venue",
+        "Organizer"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 3 pages read look alike (layout 97% the same, headings 5%) and share the address pattern /events/*; joined by: a listing: nearly the same layout, in one folder pattern (3 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "roadshow-ut",
+      "name": "RoadshowUtPage",
+      "urlPatterns": [
+        "/roadshow/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/roadshow/ut"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "RTA Fleet Roadshow - Utah",
+      "sharedHeadings": [
+        "UTAH",
+        "FLEET LEADERSHIP EVENT",
+        "Build The Fleet You're Proud to Lead",
+        "Your Full-Day Experience",
+        "Agenda",
+        "Time",
+        "Session",
+        "Who Should Attend",
+        "Learn From Fleet Pros",
+        "Marc Canton",
+        "Nathan Schafer",
+        "Can't Attend?",
+        "FAQs",
+        "What is the address?",
+        "Is there a cost to attend?",
+        "Who is this event for?",
+        "What will I gain from attending?",
+        "What is the State of Utah Contract?",
+        "Do I need to bring anything?",
+        "What if I can't make the event?"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /, shares 99% of its layout and 2% of its headings)"
+      }
+    },
+    {
+      "id": "purchasing-contracts",
+      "name": "PurchasingContractsPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/purchasing-contracts"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Purchasing Contracts | Purchase RTA Fleet Management Software",
+      "sharedHeadings": [
+        "Purchasing Contracts for Government Fleets",
+        "Proposal to Purchase Template",
+        "Download Template",
+        "Work Email*"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "email field",
+          "words": [
+            "Work Email*",
+            "email"
+          ],
+          "region": "main",
+          "form": "Download Template",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='email']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/purchasing-contracts"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Download"
+          ],
+          "region": "main",
+          "form": "Download Template",
+          "noValidate": true,
+          "xpath": "//main[@id='main-content']//form[div/label[normalize-space()='Work Email*']]/div[7]/div[2]/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/purchasing-contracts"
+        }
+      ],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /templates/disaster-plan, /templates/fleet-report, /templates/sop and 1 more, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "blog",
+      "name": "BlogPage",
+      "urlPatterns": [
+        "/press/page/*",
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/press",
+        "https://rtafleet.com/press/page/2"
+      ],
+      "repeated": true,
+      "knownUrls": 2,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Fleet Management Software"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "blog-post",
+          "count": 9,
+          "example": {
+            "from": "https://rtafleet.com/press",
+            "to": "https://rtafleet.com/press/rta-fleet-named-no-48-on-fortune-best-workplaces-in-technology-2026-list",
+            "href": "https://rtafleet.com/press/rta-fleet-named-no-48-on-fortune-best-workplaces-in-technology-2026-list",
+            "text": ""
+          }
+        },
+        {
+          "template": "blog",
+          "count": 1,
+          "example": {
+            "from": "https://rtafleet.com/press",
+            "to": "https://rtafleet.com/press/page/2",
+            "href": "https://rtafleet.com/press/page/2",
+            "text": "2"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "search field",
+          "words": [
+            "Search by title, topic and more...",
+            "q"
+          ],
+          "region": "main",
+          "form": "search",
+          "xpath": "//input[@id='dnd_area_blogg-module-2-input']",
+          "stability": "Strong",
+          "pages": 2,
+          "seenOn": "https://rtafleet.com/press"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "type"
+          ],
+          "region": "main",
+          "options": [
+            "Filter by Topic",
+            "All",
+            "Press"
+          ],
+          "xpath": "//select[@id='type']",
+          "stability": "Strong",
+          "pages": 2,
+          "seenOn": "https://rtafleet.com/press"
+        }
+      ],
+      "why": {
+        "rule": "family-by-evidence",
+        "says": "its 2 pages read look alike (layout 95% the same, headings 33%), and every page shows the heading \"Fleet Management Software\"; joined by: the layouts agree, with some headings shared (1 comparison)",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "careers",
+      "name": "CareersPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/careers"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Careers | RTA Fleet",
+      "sharedHeadings": [
+        "Work for a Company that Cares",
+        "RTA Fleet Is a Great Place to Work",
+        "Our Values & Culture",
+        "Humble",
+        "Hungry",
+        "Smart",
+        "We've Got You Covered",
+        "Unlimited PTO",
+        "Generous Holiday Schedule",
+        "Hybrid Work Environment",
+        "Competitive Salary",
+        "Medical, Dental & Vision Insurance",
+        "Life Insurance",
+        "401(K) Employer Match",
+        "Current Job Openings"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /about, shares 100% of its layout and 3% of its headings)"
+      }
+    },
+    {
+      "id": "pricing",
+      "name": "PricingPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/pricing"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Fleet Management Software Pricing | RTA Fleet",
+      "sharedHeadings": [
+        "RTA Fleet360 Pricing Plans",
+        "THE RTA FLEET DIFFERENCE",
+        "Built with Fleet Expertise",
+        "RTA FLEET360 ADD-ONS",
+        "Add-Ons Available",
+        "Sublet Invoice Capture",
+        "Motor Pool Module",
+        "Equipment Module",
+        "Custom Forms",
+        "RTA Inspect App",
+        "Fleet Wiki",
+        "Tire Module",
+        "Single Sign On (SSO)",
+        "Sandbox",
+        "We Make Purchasing Easy",
+        "We think you'll ❤ RTA Fleet,but don't take our word for it",
+        "FAQs About RTA Fleet360 Pricing",
+        "How does annual pricing work? expand_more expand_less",
+        "Is RTA Fleet360 pricing per user or per asset? expand_more expand_less",
+        "How does RTA Fleet360 pricing compare to AssetWorks? expand_more expand_less",
+        "What is the minimum fleet size? expand_more expand_less",
+        "What does implementation cost and what does it include? expand_more expand_less",
+        "What support is included on every RTA Fleet360 plan? expand_more expand_less"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "ASSETS, EQUIPMENT, & TOOLS"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Assets, Equipment, & Tools']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "AUTOMATIONS & AI"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Automations & AI']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "MAINTENANCE & REPAIR"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Maintenance & Repair']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "PARTS & INVENTORY"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Parts & Inventory']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "FUEL"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Fuel']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "ACCIDENTS"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Accidents']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "DASHBOARDS & REPORTING"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Dashboards & Reporting']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "INTEGRATIONS & API"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Integrations & API']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "GOVERANCE"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Goverance']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "SUPPORT & SERVICES"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Support & Services']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Previous quotes"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 5"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 6"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 7"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 7']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 8"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 8']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 9"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 9']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 10"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 10']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 11"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 11']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 12"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 12']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 13"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 13']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 14"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 14']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 15"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 15']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next quotes"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/pricing"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /solutions/asset-equipment-tools-management, shares 100% of its layout and 5% of its headings)"
+      }
+    },
+    {
+      "id": "support",
+      "name": "SupportPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/support"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Fleet Support | RTA Fleet",
+      "sharedHeadings": [
+        "Responsive & Reliable Customer Support",
+        "Well-Trained Support in the U.S.A.",
+        "A World-Class Customer Success Team",
+        "4.8",
+        "15 K",
+        "24 HR",
+        "Smooth Onboarding",
+        "Included Support Resources (After Implementation)",
+        "Live Support",
+        "Virtual Role-Based Training",
+        "Fleet Success Manager",
+        "Ron, the AI FleetBot",
+        "Guided Fleet360 Tours",
+        "Knowledge Base",
+        "We think you'll ❤ RTA Fleet,but don't take our word for it"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Previous quotes"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 5"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 6"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 7"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 7']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 8"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 8']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 9"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 9']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 10"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 10']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 11"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 11']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 12"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 12']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 13"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 13']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 14"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 14']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 15"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 15']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next quotes"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/support"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /about, shares 100% of its layout and 6% of its headings)"
+      }
+    },
+    {
+      "id": "book-ademo",
+      "name": "BookADemoPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/book-a-demo"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Book a Free RTA Fleet360 Demo | RTA Fleet",
+      "sharedHeadings": [
+        "Book a DemoEnter your info to get started",
+        "Best for fleets of 100+",
+        "We think you'll ❤ RTA Fleet,but don't take our word for it"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "First Name*",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Last Name*",
+            "lastname"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='lastname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Company Name*",
+            "company"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='company']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Job Title*",
+            "jobtitle"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='jobtitle']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Email*",
+            "email"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='email']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "tel field",
+          "words": [
+            "Phone Number*",
+            "phone"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='phone']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "number field",
+          "words": [
+            "Fleet size*",
+            "fleet_size__exact_number_"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='fleet_size__exact_number_']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "company_industry"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "required": true,
+          "options": [
+            "Agriculture (Farming)",
+            "Automotive",
+            "Construction",
+            "Emergency Services",
+            "Field Services"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='company_industry']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "text area",
+          "words": [
+            "Where did you first hear about us?*",
+            "how_did_you_hear_about_us_"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//textarea[@name='how_did_you_hear_about_us_']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Book a Demo"
+          ],
+          "region": "main",
+          "form": "Best for fleets of 100+",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_c08dba0e-030c-48fd-af85-949c1aa3d73b_1355']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Previous quotes"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 4"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 5"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 6"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 7"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 7']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 8"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 8']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 9"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 9']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 10"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 10']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 11"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 11']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 12"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 12']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 13"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 13']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 14"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 14']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to position 15"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Go to position 15']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next quotes"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next quotes']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/book-a-demo"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /about/contact-us, shares 100% of its layout and 0% of its headings)"
+      }
+    },
+    {
+      "id": "reviews",
+      "name": "ReviewsPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/reviews"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "RTA Fleet Software Reviews & Ratings – RTA Fleet360",
+      "sharedHeadings": [
+        "Customer Reviews & Ratings for RTA Fleet360",
+        "Verified Reviewsfrom RTA Customers",
+        "Lake Havasu City",
+        "City of Las Vegas",
+        "City of Green River",
+        "CUSTOMERS LOVE US",
+        "See What Other Fleet ProsSay About RTA",
+        "FAQs",
+        "How does RTA collect customer reviews? expand_more expand_less",
+        "Can customers leave new reviews for RTA Fleet360? expand_more expand_less",
+        "Are RTA Fleet360 reviews verified? expand_more expand_less",
+        "Why are RTA reviews published on multiple platforms? expand_more expand_less",
+        "How often are RTA’s review scores updated? expand_more expand_less",
+        "Does RTA respond to negative reviews? expand_more expand_less",
+        "Are these providers available worldwide? expand_more expand_less"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [],
+          "region": "main",
+          "xpath": "//button[@id='prev']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/reviews"
+        },
+        {
+          "kind": "button",
+          "words": [],
+          "region": "main",
+          "xpath": "//button[@id='next']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://rtafleet.com/reviews"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /industries/higher-education-fleet-management-software, shares 100% of its layout and 3% of its headings)"
+      }
+    },
+    {
+      "id": "templates",
+      "name": "TemplatesPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://rtafleet.com/templates"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "RTA Fleet Templates | Free Tools for Fleet Managers",
+      "sharedHeadings": [
+        "Templates",
+        "Fleet Report",
+        "Request for Proposal",
+        "Fleet AI Use Policy",
+        "Proposal to Purchase",
+        "Repair vs Replace",
+        "EV Transition Planning",
+        "Standard Operating Procedure",
+        "Service Level Agreement (SLA)",
+        "Fleet Card Fraud Prevention",
+        "Motor Pool Evaluation Worksheet",
+        "Disaster Plan"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "template",
+          "count": 5,
+          "example": {
+            "from": "https://rtafleet.com/templates",
+            "to": "https://rtafleet.com/templates/fleet-report",
+            "href": "https://rtafleet.com/templates/fleet-report",
+            "text": "RTA-Fleet-Report-Template",
+            "newTab": true
+          }
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /resources, shares 99% of its layout and 6% of its headings)"
+      }
+    }
+  ],
+  "skipped": [],
+  "userAgent": "Mozilla/5.0 (compatible; SuiteBuilder/1.0; +https://github.com/Ghost-in-the-Kernel-Labs/Ghost-in-the-Kernel-Labs-suite-builder-docs)",
+  "findings": [
+    {
+      "code": "SITE-33",
+      "severity": "major",
+      "title": "5 links to other sites lead nowhere: the pages are gone",
+      "where": [
+        {
+          "url": "https://www.commbuys.com/bso/external/vendor/vendorProfileOrgInfo.sdo?external=true&vendorId=00017472",
+          "says": "answered 404; linked from /industries/higher-education-fleet-management-software, /pricing",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/industries/higher-education-fleet-management-software",
+              "/pricing"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/All/0a0e566f-6f23-49c1-b072-cd5e24d4d38b/Ron-Turley-Associates-Inc",
+          "says": "answered 404; linked from /careers",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://assetworks.co.uk/blog/a-deep-dive-into-fleetfocus-features/",
+          "says": "answered 404; linked from /compare/rta-fleet360-vs-assetworks",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/compare/rta-fleet360-vs-assetworks"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://www.help.fleetio.com/tools/linking-assets",
+          "says": "its name no longer resolves: the site is gone; linked from /compare/rta-fleet360-vs-fleetio",
+          "link": {
+            "paths": [],
+            "status": null,
+            "answer": "its name no longer resolves: the site is gone",
+            "from": [
+              "/compare/rta-fleet360-vs-fleetio"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://www.businesswire.com/news/home/20260611472428/en/RTA-Fleet-Launches-Ron360-Bringing-Conversational-AI-Directly-Into-Fleet-Management-Workflows",
+          "says": "no answer in time, asked twice; linked from /compare/rta-fleet360-vs-faster",
+          "link": {
+            "paths": [],
+            "status": null,
+            "answer": "no answer in time, asked twice",
+            "from": [
+              "/compare/rta-fleet360-vs-faster"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        }
+      ],
+      "why": "Sites move and close: a visitor who follows one of these links meets an error page, or nothing at all, on someone else's site, and leaves thinking less of this one.",
+      "fix": "Point each link at where the page lives now, or take it out. The suite's link report asks every one again on each run, and fails when one that answered stops."
+    },
+    {
+      "code": "SITE-07",
+      "severity": "major",
+      "title": "353 links and buttons on 89 pages have nothing for a screen reader to say",
+      "where": [
+        {
+          "url": "https://rtafleet.com/",
+          "says": "4 links and buttons: `<a href=\"https://rtafleet.com/reviews\">`, `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/accessibility",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/solutions/integrations",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/solutions",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/industries",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/solutions/ron360",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/about",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/solutions/fleet-cost-management",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/industries/government-fleet-software",
+          "says": "14 links and buttons: `<a href=\"https://rtafleet.com/templates/proposal-to-purchas…`, `<a href=\"https://rtafleet.com/templates/request-for-proposa…`, `<a href=\"https://rtafleet.com/fleet-ai-use-policy\">`, `<a href=\"https://rtafleet.com/templates/fleet-report\">`, `<a href=\"https://rtafleet.com/templates/motor-pool-evaluati…` and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/templates/disaster-plan",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast",
+          "says": "15 links and buttons: `<a href=\"https://rtafleet.com/podcast/episode-253-departmen…`, `<a href=\"https://rtafleet.com/podcast/episode-252-the-gray-…`, `<a href=\"https://rtafleet.com/podcast/episode-251-are-alter…`, `<a href=\"https://rtafleet.com/podcast/episode-250-what-make…`, `<a href=\"https://rtafleet.com/podcast/episode-249-ai-change…` and 10 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-243-every-work-order-should-end-with-an-inspection",
+          "says": "4 links and buttons: `<a href=\"/solutions/fleet-maintenance-and-repair\">`, `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-250-what-makes-a-great-fleet-inside-the-fleet-success-awards",
+          "says": "5 links and buttons: `<a href=\"https://rtafleet.com/solutions/consulting?utm_sour…`, `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…` and 1 more"
+        },
+        {
+          "url": "https://rtafleet.com/templates/sla",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-253-department-of-one-building-a-centralized-fleet-from-scratch",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/connect27",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/page/5",
+          "says": "15 links and buttons: `<a href=\"https://rtafleet.com/podcast/episode-205-the-3ws-o…`, `<a href=\"https://rtafleet.com/podcast/episode-204-workload-…`, `<a href=\"https://rtafleet.com/podcast/episode-203-fleet-lea…`, `<a href=\"https://rtafleet.com/podcast/episode-202-fleet-man…`, `<a href=\"https://rtafleet.com/podcast/episode-201-from-wren…` and 10 more"
+        },
+        {
+          "url": "https://rtafleet.com/resources",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/templates/fleet-report",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/page/4",
+          "says": "15 links and buttons: `<a href=\"https://rtafleet.com/podcast/episode-217-why-repla…`, `<a href=\"https://rtafleet.com/podcast/episode-216-the-rise-…`, `<a href=\"https://rtafleet.com/podcast/episode-215-fleet-man…`, `<a href=\"https://rtafleet.com/podcast/episode-214-how-centr…`, `<a href=\"https://rtafleet.com/podcast/episode-213-why-your-…` and 10 more"
+        },
+        {
+          "url": "https://rtafleet.com/compare/rta-fleet360-vs-assetworks",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/resources/fleet-success-playbook",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/fleet-experts/josh-turley",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/industries/food-and-beverage-fleet-management-software",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/page/3",
+          "says": "15 links and buttons: `<a href=\"https://rtafleet.com/podcast/episode-229-the-real-…`, `<a href=\"https://rtafleet.com/podcast/episode-228-fleet-man…`, `<a href=\"https://rtafleet.com/podcast/episode-227-the-hidde…`, `<a href=\"https://rtafleet.com/podcast/episode-226-fleet-man…`, `<a href=\"https://rtafleet.com/podcast/episode-225-are-certi…` and 10 more"
+        },
+        {
+          "url": "https://rtafleet.com/industries/higher-education-fleet-management-software",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/resources/fleet-success-stories",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/resources/case-studies/granger-waste",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/resources/case-studies/city-of-pittsfield",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/resources/case-studies/buckeye-valley-fire",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/compare/rta-fleet360-vs-fleetio",
+          "says": "4 links and buttons: `<a href=\"https://www.claudeusercontent.com/?domain=claude.a…`, `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/fleet-experts/facundo-tassara",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/fleet-experts/marc-canton",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/compare/rta-fleet360-vs-faster",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/about/contact-us",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/press/rta-fleet-launches-ron360-bringing-conversational-ai-directly-into-fleet-management-workflows",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-206-fleet-leaders-reveal-the-software-theyd-never-use-again",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-249-ai-change-the-new-fleet-manager-how-to-lead-whats-next",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-212-why-fleet-education-is-booming-and-what-it-means-for-the-future",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-199-the-truth-about-fleet-tech-shortages-that-no-one-wants-to-admit",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-224-fleet-fraud-is-getting-smarter-heres-how-fleets-fight-back",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-222-fleet-management-101-nobody-teaches-fleet-management",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-215-fleet-management-101-how-to-become-a-great-fleet-supervisor",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-202-fleet-management-101-the-critical-metrics-that-separate-good-fleets-from-great-ones",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-227-the-hidden-costs-killing-fleet-operations-its-not-what-you-think",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/events",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/events/government-fleet-expo-2027",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/events/motive-vision-2027",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/events/work-truck-week-2027",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/roadshow/ut",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/solutions/asset-equipment-tools-management",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-246-the-utilization-debate-should-you-move-vehicles-between-drivers",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/purchasing-contracts",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-209-the-fleet-success-mindset-building-stronger-teams-systems-and-results",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-196-how-to-go-from-turning-wrenches-to-calling-shots-in-fleet",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/press",
+          "says": "15 links and buttons: `<a href=\"https://rtafleet.com/press/rta-fleet-named-no-48-o…`, `<a href=\"https://rtafleet.com/press/winners-of-inaugural-rt…`, `<a href=\"https://rtafleet.com/press/rta-fleet-named-34-fort…`, `<a href=\"https://rtafleet.com/press/state-of-utah-selects-r…`, `<a href=\"https://rtafleet.com/press/rta-fleet360-selected-b…` and 10 more"
+        },
+        {
+          "url": "https://rtafleet.com/press/rta-fleet-launches-ai-enabled-sublet-invoice-capture-reducing-invoice-entry-time",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/press/rta-fleet-named-34-fortune-best-small-workplaces-2026-list",
+          "says": "4 links and buttons: `<a href=\"https://www.rtafleet.com/\">`, `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/press/page/2",
+          "says": "9 links and buttons: `<a href=\"https://rtafleet.com/press/state-of-utah-adds-rta-…`, `<a href=\"https://rtafleet.com/press/great-place-to-work-cer…`, `<a href=\"https://rtafleet.com/press/commonwealth-of-massach…`, `<a href=\"https://rtafleet.com/press/rta-surpasses-240-milli…`, `<a href=\"https://rtafleet.com/press/rta-named-recipient-of-…` and 4 more"
+        },
+        {
+          "url": "https://rtafleet.com/press/commonwealth-of-massachusetts-office-of-vehicle-management-chooses-rta-for-fleet-management-information-system-upgrade",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/press/winners-of-inaugural-rta-fleet-success-awards",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/solutions/fleet-maintenance-and-repair",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-220-motor-pools-are-back-right-size-your-fleet-without-breaking-operations",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/careers",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/press/state-of-utah-adds-rta-state-contract-fleet-management",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-234-ai-for-fleet-leaders-stop-waiting-start-moving",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/pricing",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-216-the-rise-of-the-tech-savvy-fleet-manager",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/solutions/driver-technician-inspections",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-204-workload-workforce-workplace-rightsizing-is-more-than-just-for-fleet-assets",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/press/rta-fleet360-wins-2025-fleet-management-software-of-the-year-from-autotech-breakthrough",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/support",
+          "says": "4 links and buttons: `<a href=\"https://rtafleet.atlassian.net/servicedesk/custome…`, `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/templates/sop",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/resources/case-studies/lehi-city-utah",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-228-fleet-management-is-25-years-behind-but-ai-may-change-everything",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-247-fleet-management-101-where-fleet-belongs-in-your-organization",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/solutions/service-requests",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/press/rta-named-recipient-of-2024-top-software-tech-award-1",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-210-how-to-win-nafas-100-best-fleets-insider-advice-from-a-longtime-judge",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/reviews",
+          "says": "5 links and buttons: `<button id=\"prev\">`, `<button id=\"next\">`, `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-198-what-fleet-managers-get-wrong-about-replacement-rightsizing-staffing",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/templates",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-221-the-state-of-fleet-management-education-ai-and-the-technician-crisis-with-nafas-ceo",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/press/rta-fleet-named-no-48-on-fortune-best-workplaces-in-technology-2026-list",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/solutions/employee-stakeholder-satisfaction",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/templates/proposal-to-purchase",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/resources/case-studies/az-dept-of-corrections",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-251-are-alternative-fuel-mandates-failing-public-fleets",
+          "says": "3 links and buttons: `<a href=\"https://www.linkedin.com/company/rtafleet/\">`, `<a href=\"https://www.youtube.com/@RTAFleet\">`, `<a href=\"https://open.spotify.com/show/5gF6R1FDNcpft1tpWQUk…`"
+        }
+      ],
+      "why": "A blind visitor hears only \"link\" or \"button\", with no idea where it goes or what it does; accessibility law (the ADA, the European Accessibility Act) counts it, and so do automated accessibility audits.",
+      "fix": "Give each one words: visible text, an aria-label, or an alt on the image inside it (an icon link to a cart: aria-label=\"Cart\")."
+    },
+    {
+      "code": "SITE-08",
+      "severity": "major",
+      "title": "17 form fields on 5 pages have no label",
+      "where": [
+        {
+          "url": "https://rtafleet.com/connect27",
+          "says": "1 field: `<input name=\"email\">`"
+        },
+        {
+          "url": "https://rtafleet.com/resources/rta-fleet360-vs-fleetio-calculator",
+          "says": "3 fields: `<input id=\"assetSlider\">`, `<select id=\"rtaTier\">`, `<select id=\"fleetType\">`"
+        },
+        {
+          "url": "https://rtafleet.com/press",
+          "says": "2 fields: `<input name=\"q\">`, `<select name=\"type\">`"
+        },
+        {
+          "url": "https://rtafleet.com/press/page/2",
+          "says": "2 fields: `<input name=\"q\">`, `<select name=\"type\">`"
+        },
+        {
+          "url": "https://rtafleet.com/book-a-demo",
+          "says": "9 fields: `<input name=\"firstname\">`, `<input name=\"lastname\">`, `<input name=\"company\">`, `<input name=\"jobtitle\">`, `<input name=\"email\">` and 4 more"
+        }
+      ],
+      "why": "A screen reader announces a field with no label as \"edit text\", so a blind visitor cannot tell what to type; a placeholder alone vanishes once typing starts. Accessibility audits fail it.",
+      "fix": "Give each field a <label for=\"its id\"> (each id used once on the page), or an aria-label."
+    },
+    {
+      "code": "SITE-21",
+      "severity": "major",
+      "title": "The site's own scripts throw 190 errors on 28 pages",
+      "where": [
+        {
+          "url": "https://rtafleet.com/industries",
+          "says": "1 error: PureCounter is not defined"
+        },
+        {
+          "url": "https://rtafleet.com/about",
+          "says": "1 error: PureCounter is not defined"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-243-every-work-order-should-end-with-an-inspection",
+          "says": "12 errors: A network error occurred. and 11 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-250-what-makes-a-great-fleet-inside-the-fleet-success-awards",
+          "says": "4 errors: A network error occurred. and 3 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-253-department-of-one-building-a-centralized-fleet-from-scratch",
+          "says": "2 errors: A network error occurred. and 1 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-206-fleet-leaders-reveal-the-software-theyd-never-use-again",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-249-ai-change-the-new-fleet-manager-how-to-lead-whats-next",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-212-why-fleet-education-is-booming-and-what-it-means-for-the-future",
+          "says": "2 errors: A network error occurred. and 1 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-199-the-truth-about-fleet-tech-shortages-that-no-one-wants-to-admit",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-224-fleet-fraud-is-getting-smarter-heres-how-fleets-fight-back",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-222-fleet-management-101-nobody-teaches-fleet-management",
+          "says": "2 errors: A network error occurred. and 1 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-215-fleet-management-101-how-to-become-a-great-fleet-supervisor",
+          "says": "2 errors: A network error occurred. and 1 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-202-fleet-management-101-the-critical-metrics-that-separate-good-fleets-from-great-ones",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-227-the-hidden-costs-killing-fleet-operations-its-not-what-you-think",
+          "says": "2 errors: A network error occurred. and 1 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-246-the-utilization-debate-should-you-move-vehicles-between-drivers",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-209-the-fleet-success-mindset-building-stronger-teams-systems-and-results",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-196-how-to-go-from-turning-wrenches-to-calling-shots-in-fleet",
+          "says": "4 errors: A network error occurred. and 3 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-220-motor-pools-are-back-right-size-your-fleet-without-breaking-operations",
+          "says": "12 errors: A network error occurred. and 11 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-234-ai-for-fleet-leaders-stop-waiting-start-moving",
+          "says": "6 errors: A network error occurred. and 5 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-216-the-rise-of-the-tech-savvy-fleet-manager",
+          "says": "2 errors: A network error occurred. and 1 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-204-workload-workforce-workplace-rightsizing-is-more-than-just-for-fleet-assets",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/support",
+          "says": "1 error: PureCounter is not defined"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-228-fleet-management-is-25-years-behind-but-ai-may-change-everything",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-247-fleet-management-101-where-fleet-belongs-in-your-organization",
+          "says": "9 errors: A network error occurred. and 8 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-210-how-to-win-nafas-100-best-fleets-insider-advice-from-a-longtime-judge",
+          "says": "10 errors: A network error occurred. and 9 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-198-what-fleet-managers-get-wrong-about-replacement-rightsizing-staffing",
+          "says": "6 errors: A network error occurred. and 5 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-221-the-state-of-fleet-management-education-ai-and-the-technician-crisis-with-nafas-ceo",
+          "says": "12 errors: A network error occurred. and 11 more"
+        },
+        {
+          "url": "https://rtafleet.com/podcast/episode-251-are-alternative-fuel-mandates-failing-public-fleets",
+          "says": "10 errors: A network error occurred. and 9 more"
+        }
+      ],
+      "why": "An error nothing catches stops the script that threw it: whatever it was doing (a form's checks, a cart, tracking) is left undone. Visitors never report it; it is seen only in the browser's console.",
+      "fix": "Open the page with the browser's developer tools, read the console, and fix each error at the line it names."
+    },
+    {
+      "code": "SITE-03",
+      "severity": "minor",
+      "title": "1 of the site's own links redirects before it arrives",
+      "where": [
+        {
+          "url": "https://rtafleet.com/connect",
+          "says": "301 to /connect27"
+        }
+      ],
+      "why": "Every click on one of these links costs an extra round trip before the page starts loading, and search engines see one page at two addresses.",
+      "fix": "Link to each page's final address (with or without its trailing slash, as the server serves it)."
+    },
+    {
+      "code": "SITE-13",
+      "severity": "minor",
+      "title": "2 images on 1 page have no alt text",
+      "where": [
+        {
+          "url": "https://rtafleet.com/pricing",
+          "says": "2 images: `<img src=\"https://rtafleet.com/hs-fs/hubfs/RTA-AI-Sparkle-O…`, `<img src=\"https://rtafleet.com/hs-fs/hubfs/AI-Sparkle-Blue-…`"
+        }
+      ],
+      "why": "A screen reader reads the file name instead, or nothing; search engines lose the words that say what the image shows.",
+      "fix": "Add alt=\"what the image shows\"; for an image that is decoration only, alt=\"\"."
+    },
+    {
+      "code": "SITE-15",
+      "severity": "minor",
+      "title": "1 page has no main heading; 2 pages have several main headings (h1)",
+      "where": [
+        {
+          "url": "https://rtafleet.com/connect27",
+          "says": "no h1 shown"
+        },
+        {
+          "url": "https://rtafleet.com/press",
+          "says": "2 h1: `Press Releases`, `RTA Press Releases`"
+        },
+        {
+          "url": "https://rtafleet.com/press/page/2",
+          "says": "2 h1: `Press Releases`, `RTA Press Releases`"
+        }
+      ],
+      "why": "Screen reader users jump to the h1 to learn what a page is, and search engines read it as the page's subject; none, or several competing, says neither.",
+      "fix": "Give each page one h1 naming what it shows; the site's name in the header is not it."
+    },
+    {
+      "code": "SITE-24",
+      "severity": "minor",
+      "title": "1 security header no page sends",
+      "where": [
+        {
+          "url": "https://rtafleet.com/",
+          "says": "no page of the site sends X-Frame-Options or frame-ancestors (another site cannot frame it to trick a click)"
+        }
+      ],
+      "why": "Each header closes a door attackers use (a downgrade to http, a script slipped in, the site framed in another to trick a click). Security reviews and compliance checklists ask for them, and they cost a line of server configuration.",
+      "fix": "Add the missing headers in the web server or the CDN (one setting each), starting with Strict-Transport-Security."
+    },
+    {
+      "code": "SITE-28",
+      "severity": "minor",
+      "title": "The sitemap lists 1 address that is broken or moved",
+      "where": [
+        {
+          "url": "https://rtafleet.com/sitemap.xml",
+          "says": "/connect redirects"
+        }
+      ],
+      "why": "A sitemap tells search engines every page to index, and how fresh each is; without one they find pages only by following links, and one listing wrong addresses spends their visits on errors.",
+      "fix": "Publish /sitemap.xml listing each page's final address (most site builders and CMSs have a setting or plugin for it), and name it in robots.txt (Sitemap: ...)."
+    },
+    {
+      "code": "SITE-29",
+      "severity": "minor",
+      "title": "The site has no security.txt: someone who finds a hole has no way to report it",
+      "where": [
+        {
+          "url": "https://rtafleet.com/.well-known/security.txt",
+          "says": "answered 404"
+        }
+      ],
+      "why": "Researchers who find a security problem look for /.well-known/security.txt to know whom to tell (RFC 9116); without it they may not report it, or report it publicly.",
+      "fix": "Publish /.well-known/security.txt with a Contact line (an email address or a form) and an Expires line."
+    }
+  ],
+  "nearCopies": [
+    {
+      "a": "template",
+      "b": "connect27",
+      "pages": [
+        "https://rtafleet.com/templates/disaster-plan",
+        "https://rtafleet.com/connect27"
+      ],
+      "shared": [
+        "utm_source",
+        "utm_medium",
+        "utm_content",
+        "utm_campaign",
+        "utm_term"
+      ]
+    },
+    {
+      "a": "template",
+      "b": "purchasing-contracts",
+      "pages": [
+        "https://rtafleet.com/templates/disaster-plan",
+        "https://rtafleet.com/purchasing-contracts"
+      ],
+      "shared": [
+        "Work Email*",
+        "utm_source",
+        "utm_medium",
+        "utm_content",
+        "utm_campaign",
+        "utm_term"
+      ]
+    },
+    {
+      "a": "connect27",
+      "b": "purchasing-contracts",
+      "pages": [
+        "https://rtafleet.com/connect27",
+        "https://rtafleet.com/purchasing-contracts"
+      ],
+      "shared": [
+        "utm_medium",
+        "utm_source",
+        "utm_campaign",
+        "utm_content",
+        "utm_term"
+      ]
+    }
+  ]
+}

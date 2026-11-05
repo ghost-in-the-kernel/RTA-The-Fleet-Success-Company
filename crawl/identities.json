@@ -1,0 +1,385 @@
+{
+  "tool": "suite-builder",
+  "ledgerVersion": 1,
+  "entities": [
+    {
+      "id": "type:/",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "HomePage",
+      "patterns": [
+        "/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/accessibility",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "AccessibilityPage",
+      "patterns": [
+        "/accessibility"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/solutions/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "SolutionPage",
+      "patterns": [
+        "/solutions/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/solutions",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "SolutionsPage",
+      "patterns": [
+        "/solutions"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/industries",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "IndustriesPage",
+      "patterns": [
+        "/industries"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/about",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "AboutPage",
+      "patterns": [
+        "/about"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/industries/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "FaqpagePage",
+      "patterns": [
+        "/industries/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/templates/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "TemplatePage",
+      "patterns": [
+        "/templates/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/podcast/page/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "PodcastPagePage",
+      "patterns": [
+        "/podcast/page/*",
+        "/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/*/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "SpeakerBiosPage",
+      "patterns": [
+        "/*/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/connect27",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "Connect27Page",
+      "patterns": [
+        "/connect27"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/resources",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "ResourcesPage",
+      "patterns": [
+        "/resources"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/compare/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "SoftwareApplicationPage",
+      "patterns": [
+        "/compare/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/resources/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "ResourcePage",
+      "patterns": [
+        "/resources/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/fleet-experts/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "ProfilePage",
+      "patterns": [
+        "/fleet-experts/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/resources/case-studies/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "ResourcesCaseStudiesPage",
+      "patterns": [
+        "/resources/case-studies/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/about/contact-us",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "AboutContactUsPage",
+      "patterns": [
+        "/about/contact-us"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/*/*#2",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "BlogPostPage",
+      "patterns": [
+        "/*/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/events",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "EventsPage",
+      "patterns": [
+        "/events"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/events/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "EventPage",
+      "patterns": [
+        "/events/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/roadshow/ut",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "RoadshowUtPage",
+      "patterns": [
+        "/roadshow/ut"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/purchasing-contracts",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "PurchasingContractsPage",
+      "patterns": [
+        "/purchasing-contracts"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/press/page/*",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "BlogPage",
+      "patterns": [
+        "/press/page/*",
+        "/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/careers",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "CareersPage",
+      "patterns": [
+        "/careers"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/pricing",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "PricingPage",
+      "patterns": [
+        "/pricing"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/support",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "SupportPage",
+      "patterns": [
+        "/support"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/book-a-demo",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "BookADemoPage",
+      "patterns": [
+        "/book-a-demo"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/reviews",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "ReviewsPage",
+      "patterns": [
+        "/reviews"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    },
+    {
+      "id": "type:/templates",
+      "kind": "page-type",
+      "introducedAt": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206",
+      "cls": "TemplatesPage",
+      "patterns": [
+        "/templates"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c51c345ed1cb4f8b571273dd96d7020f79dd62282dc7af716101bab3aaad0206"
+      }
+    }
+  ]
+}
